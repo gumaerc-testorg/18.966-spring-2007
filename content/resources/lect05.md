@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on tubular neighborhoods; local version of Moser's theorem;
   Weinstein's neighborhood theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-966-geometry-of-manifolds-spring-2007/238234d53148cb71c5880e529a96c73f_lect05.pdf
+file: /media/courses/18-966-geometry-of-manifolds-spring-2007/238234d53148cb71c5880e529a96c73f_lect05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect05.pdf
 uid: 238234d5-3148-cb71-c588-0e529a96c73f

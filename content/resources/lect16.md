@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on elliptic regularity, Green's operator; Hodge * operator
   and complex Hodge theory on a K?hler manifold; relation between real and complex
   Laplacians.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-966-geometry-of-manifolds-spring-2007/010af77ed8262674b19d6e46fa831fff_lect16.pdf
+file: /media/courses/18-966-geometry-of-manifolds-spring-2007/010af77ed8262674b19d6e46fa831fff_lect16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect16.pdf
 uid: 010af77e-d826-2674-b19d-6e46fa831fff

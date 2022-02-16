@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on symplectic branched covers of symplectic 4-manifolds.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-966-geometry-of-manifolds-spring-2007/66f491c36656f58fae838a375df8e949_lect23.pdf
+file: /media/courses/18-966-geometry-of-manifolds-spring-2007/66f491c36656f58fae838a375df8e949_lect23.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect23.pdf
 uid: 66f491c3-6656-f58f-ae83-8a375df8e949
