@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description and information about main
+  topics, prerequisites, homework, texts, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
