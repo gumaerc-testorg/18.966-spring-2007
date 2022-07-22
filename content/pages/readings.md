@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about recommended texts and includes
+  a calendar of lecture sessions with associated readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 867b191f-a82f-0abc-ee64-fc4e87e31188
 ---
