@@ -5,6 +5,7 @@ file: /courses/18-966-geometry-of-manifolds-spring-2007/5adeba0d16668d18ca12c8ad
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework2.pdf
 uid: 5adeba0d-1666-8d18-ca12-c8adf02135e5
 ---
 This resource contains a problem set.
-

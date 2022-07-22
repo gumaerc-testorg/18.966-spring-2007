@@ -7,6 +7,7 @@ file: /courses/18-966-geometry-of-manifolds-spring-2007/9567349f365b32075b9afc15
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lect18.pdf
 uid: 9567349f-365b-3207-5b9a-fc15b2f1986e
 ---
 Lecture notes on holomorphic sections and projective embeddings; ampleness; Donaldson's proof of the Kodaira embedding theorem: local model; concentrated approximately holomorphic sections.
-
