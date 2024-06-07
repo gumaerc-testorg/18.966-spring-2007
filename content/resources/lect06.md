@@ -5,6 +5,7 @@ description: 'Lecture notes on tangent space to the group of symplectomorphisms;
   Morse complex, homology; action functional on the loop space, and the basic idea
   of Floer homology.'
 file: /courses/18-966-geometry-of-manifolds-spring-2007/1168a558edf107963f1a5ef030c93926_lect06.pdf
+file_size: 116683
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: Lecture notes on Chern classes of the tangent bundle; cohomological
   for existence of almost-complex structures on a 4-manifold, examples; splitting
   of tangent and cotangent bundles of (M,J), types; complex manifolds, Dolbeault cohomology.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/8de7efaaa019aef8237177a82020050c_lect12.pdf
+file_size: 153760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on Seiberg-Witten equations; gauge group; moduli space;
   linearized equations; compactness of moduli space.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/97f1be73da04e77a86bcb1ea8ebcced9_lect25.pdf
+file_size: 147603
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
