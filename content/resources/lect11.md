@@ -4,6 +4,7 @@ description: Lecture notes on naturality properties of Chern classes and topolog
   definition; equivalence between the two definitions; classification of complex line
   bundles.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/4699443c64f6c6f5bdbab98172674dbd_lect11.pdf
+file_size: 132308
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

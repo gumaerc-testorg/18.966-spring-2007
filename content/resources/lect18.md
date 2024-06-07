@@ -4,6 +4,7 @@ description: 'Lecture notes on holomorphic sections and projective embeddings; a
   Donaldson''s proof of the Kodaira embedding theorem: local model; concentrated approximately
   holomorphic sections.'
 file: /courses/18-966-geometry-of-manifolds-spring-2007/9567349f365b32075b9afc15b2f1986e_lect18.pdf
+file_size: 137932
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
