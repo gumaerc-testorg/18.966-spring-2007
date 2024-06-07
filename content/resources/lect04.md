@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on symplectic vector fields, flux; isotopy and deformation
   equivalence; Moser's theorem; Darboux's theorem.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/864a8cbd55d8d9696a717db38f8668a9_lect04.pdf
+file_size: 91255
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

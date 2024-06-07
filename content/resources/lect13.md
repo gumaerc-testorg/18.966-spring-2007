@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on Nijenhuis tensor; integrability; square of the dbar
   operator; Newlander-Nirenberg theorem; K?hler manifolds; complex projective space.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/33b370155e45b55bca24c9d01305c079_lect13.pdf
+file_size: 126802
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

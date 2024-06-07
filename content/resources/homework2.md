@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem set.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/5adeba0d16668d18ca12c8adf02135e5_homework2.pdf
+file_size: 48682
 file_type: application/pdf
 learning_resource_types:
 - Assignments

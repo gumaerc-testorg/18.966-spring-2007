@@ -4,6 +4,7 @@ description: Lecture notes on K?hler forms; strictly plurisubharmonic functions;
   potentials; examples; Fubini-Study K?hler form; complex projective manifolds; Hodge
   decomposition theorem.
 file: /courses/18-966-geometry-of-manifolds-spring-2007/224df019296f32e86b4c63a323145573_lect14.pdf
+file_size: 136281
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
