@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to a problem set.
-file: /courses/18-966-geometry-of-manifolds-spring-2007/bbc160045496d82864b2e2c81ad7e0a8_hw3_sol.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/bbc160045496d82864b2e2c81ad7e0a8_hw3_sol.pdf
 file_size: 82428
 file_type: application/pdf
 learning_resource_types:

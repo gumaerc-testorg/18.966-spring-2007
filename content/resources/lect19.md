@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Donaldson''s proof of the Kodaira embedding theorem:
   Estimates; concentrated sections; approximation lemma.'
-file: /courses/18-966-geometry-of-manifolds-spring-2007/0053095c6f2c5e4deaedba92d994ad9e_lect19.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/0053095c6f2c5e4deaedba92d994ad9e_lect19.pdf
 file_size: 149072
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes on almost-complex structures: Existence and contractibility;
   almost-complex submanifolds vs. symplectic submanifolds; Sp(2n), O(2n), GL(n,C),
   and U(n); connections: definition, connection 1-form.'
-file: /courses/18-966-geometry-of-manifolds-spring-2007/ae6565bbfacae2e53361e06acc340213_lect08.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/ae6565bbfacae2e53361e06acc340213_lect08.pdf
 file_size: 139993
 file_type: application/pdf
 learning_resource_types:

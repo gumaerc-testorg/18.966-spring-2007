@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on cup-product and Poincar? duality in de Rham cohomology;
   symplectic vector spaces and linear algebra; symplectic manifolds, first examples;
   symplectomorphisms.
-file: /courses/18-966-geometry-of-manifolds-spring-2007/fd89fa50606822d1fb5c91d763e39c9d_lect02.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/fd89fa50606822d1fb5c91d763e39c9d_lect02.pdf
 file_size: 137512
 file_type: application/pdf
 learning_resource_types:
