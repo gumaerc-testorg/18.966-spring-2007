@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Hodge diamond; hard Lefschetz theorem; holomorphic vector
   bundles; canonical connection and curvature.
-file: /courses/18-966-geometry-of-manifolds-spring-2007/cb686b7ed3c4e3ae4aa68346084ccce0_lect17.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/cb686b7ed3c4e3ae4aa68346084ccce0_lect17.pdf
 file_size: 131872
 file_type: application/pdf
 learning_resource_types:
