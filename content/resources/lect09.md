@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on horizontal distributions; metric connections; curvature
   of a connection: Intrinsic definition; expression in terms of connection 1-form.'
-file: /courses/18-966-geometry-of-manifolds-spring-2007/4a7f8380afdfdf71421eaf31cd13f0fa_lect09.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/4a7f8380afdfdf71421eaf31cd13f0fa_lect09.pdf
 file_size: 98678
 file_type: application/pdf
 learning_resource_types:

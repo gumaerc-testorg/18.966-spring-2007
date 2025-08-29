@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set.
-file: /courses/18-966-geometry-of-manifolds-spring-2007/2356bcfe1b353877898f8824de94084b_homework3.pdf
+file: /ol-ocw-studio-app/courses/18-966-geometry-of-manifolds-spring-2007/2356bcfe1b353877898f8824de94084b_homework3.pdf
 file_size: 56295
 file_type: application/pdf
 learning_resource_types:
